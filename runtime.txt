@@ -1,1 +1,1 @@
-python-3.10.12s
+.python-version=3.11.11
